@@ -1,5 +1,5 @@
 {
-    "name": "aliyuncs/aliyun-dysms-php-sdk",
+    "name": "djangoson/aliyun-dysms-php-sdk-la",
     "description": "Aliyun SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "license": "MIT",
